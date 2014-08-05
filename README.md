@@ -3,9 +3,9 @@ Unix domain socket tools
 
 Short descriptions
 ------------------
-* udshub.py is a server which creates and listens to a unix socket, and forwards messages sent from one client to all others.
-* uds2fd.py connects to a unix domain socket and hands the filedescriptor to a program you specify.
-* udschatclient.py is a debugging tool to connect to a unix domain socket and send/receive data.
+* ```udshub.py``` is a server which creates and listens to a unix socket, and forwards messages sent from one client to all others.
+* ```uds2fd.py``` connects to a unix domain socket and hands the filedescriptor to a program you specify.
+* ```udschatclient.py``` is a debugging tool to connect to a unix domain socket and send/receive data.
 
 Guide
 -----
